@@ -2,7 +2,6 @@
 
 A ROS 2 pipeline for real-time 6-DoF pose estimation of a fixed-wing UAV, built to support autonomous robotic hydrogen refuelling using a UR30 industrial manipulator. Developed as my Projektarbeit at the Institute of Aircraft Production Technology (IFPT), Hamburg University of Technology (TUHH) — part of the HYDRO-BUNNY project.
 
-**Grade:** 1.3
 
 > ⚠️ **What's not in this repo:** All CAD/mesh assets (`.stl`, `.usd`) for the drone, landing platform, and rail system are the property of MB+Partner and are not included here, per project confidentiality. This repo contains only the perception pipeline, evaluation tooling, and results that are my own work.
 
