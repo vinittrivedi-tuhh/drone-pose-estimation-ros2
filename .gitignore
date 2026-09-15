@@ -1,0 +1,29 @@
+# CAD & 3D Assets (confidential third-party IP)
+*.stl
+*.STL
+*.usd
+*.usda
+*.usdc
+*.usdz
+*.pcd
+*.SLDASM
+*.iam
+*.dae
+*.urdf
+*.sdf
+*.xacro
+
+# ROS 2 build artifacts & logs
+build/
+install/
+log/
+__pycache__/
+*.pyc
+
+# Environment & IDE
+.venv/
+.vscode/
+.DS_Store
+Thumbs.db
+*Zone.Identifier
+literature_review/
